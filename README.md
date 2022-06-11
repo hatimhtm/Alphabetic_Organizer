@@ -1,0 +1,2 @@
+This program will help you to organize a bunch of words by putting them in alphabetical order. The program will ask you first to enter the number of words you want to organize then it'll give you the ability to enter your words. After that you'll get your final result.
+:)
